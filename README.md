@@ -38,8 +38,8 @@ I'm an AI student passionate about building intelligent systems that make a diff
 ---
 
 ## 📫 How to reach me:
-- LinkedIn: [https://www.linkedin.com/in/saifftunio/](https://www.linkedin.com/in/saifftunio/)
-- Email: [saifullah.tunio1@gmail.com](mailto:saifullah.tunio1@gmail.com)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saifftunio/)
+- Email: [Gmail ](mailto:saifullah.tunio1@gmail.com)  
 - GitHub: [@Saiff-Tunio](https://github.com/Saiff-Tunio)
 
 ---
